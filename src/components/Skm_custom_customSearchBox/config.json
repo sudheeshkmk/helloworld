@@ -1,0 +1,41 @@
+{
+  "name": "Skm_custom_customSearchBox",
+  "label": "Search Adavanced",
+  "description": "Custom Search",
+  "organization": "Skm",
+  "version": "0.0.1",
+  "library": "custom",
+  "allowedApplications": [],
+  "componentKey": "Skm_custom_customSearchBox",
+  "type": "Field",
+  "subtype": "Text",
+  "properties": [
+    {
+      "name": "label",
+      "label": "Label value",
+      "format": "TEXT"
+    },
+    {
+      "name": "placeholder",
+      "label": "Placeholder",
+      "format": "TEXT"
+    },
+    {
+      "name": "visibility",
+      "label": "Visible",
+      "format": "VISIBILITY"
+    },
+    {
+      "name": "disabled",
+      "label": "Disabled",
+      "format": "DISABLED"
+    },
+    {
+      "name": "required",
+      "label": "Required",
+      "format": "REQUIRED"
+    }
+  ],
+  "defaultConfig": {
+  }
+}
