@@ -1,0 +1,41 @@
+{
+  "name": "Skm_default_widget1",
+  "label": "widget 1",
+  "description": "widget of type page",
+  "organization": "Skm",
+  "version": "0.0.1",
+  "library": "default",
+  "allowedApplications": [],
+  "componentKey": "Skm_default_widget1",
+  "type": "Widget",
+  "subtype": "PAGE",
+  "properties": [
+    {
+      "name": "label",
+      "label": "Label value",
+      "format": "TEXT"
+    },
+    {
+      "name": "placeholder",
+      "label": "Placeholder",
+      "format": "TEXT"
+    },
+    {
+      "name": "visibility",
+      "label": "Visible",
+      "format": "VISIBILITY"
+    },
+    {
+      "name": "disabled",
+      "label": "Disabled",
+      "format": "DISABLED"
+    },
+    {
+      "name": "required",
+      "label": "Required",
+      "format": "REQUIRED"
+    }
+  ],
+  "defaultConfig": {
+  }
+}
